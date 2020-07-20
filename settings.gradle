@@ -1,0 +1,2 @@
+include ':app', ':npdiceroller'
+rootProject.name='Libraries'
